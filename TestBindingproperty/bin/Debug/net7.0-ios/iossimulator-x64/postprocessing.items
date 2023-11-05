@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="TestBindingproperty.app/TestBindingproperty">
+      <BCSymbolMapName>TestBindingproperty.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>TestBindingproperty.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/vincentsciaccaluga/Projects/TestBindingproperty/TestBindingproperty/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>TestBindingproperty.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/vincentsciaccaluga/Projects/TestBindingproperty/TestBindingproperty</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

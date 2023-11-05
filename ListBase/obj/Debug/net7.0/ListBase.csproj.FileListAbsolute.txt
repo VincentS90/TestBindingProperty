@@ -1,0 +1,13 @@
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/bin/Debug/net7.0/ListBase.deps.json
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/bin/Debug/net7.0/ListBase.dll
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/bin/Debug/net7.0/ListBase.pdb
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/ListBase.csproj.AssemblyReference.cache
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/ListBase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/ListBase.AssemblyInfoInputs.cache
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/ListBase.AssemblyInfo.cs
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/ListBase.csproj.CoreCompileInputs.cache
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/XamlC.stamp
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/ListBase.dll
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/refint/ListBase.dll
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/ListBase.pdb
+/Users/vincentsciaccaluga/Projects/TestBindingproperty/ListBase/obj/Debug/net7.0/ref/ListBase.dll
